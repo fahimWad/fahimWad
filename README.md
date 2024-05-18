@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Fahim and I am a sophomore studying Computer Science<br>and Mathematics at UCLA! Some of my current projects include the <br>TeachLA Static Site and BEat Mobile app for dining at UCLA. As part of<br>the team for the TeachLA static site, I work on the dev page and <br>help consolidate all of the past projects our entire team has worked on<br>while showcasing our current projects. In addition, I am looking to expand<br>the site by incorporating features to help track user analytics and interactions.<br>
+Hi! My name is Fahim and I am a sophomore studying Computer Science at UCLA! Some of my current projects include the <br>TeachLA Static Site and BEat Mobile app for dining at UCLA. As part of<br>the team for the TeachLA static site, I work on the dev page and <br>help consolidate all of the past projects our entire team has worked on<br>while showcasing our current projects. In addition, I am looking to expand<br>the site by incorporating features to help track user analytics and interactions.<br>
 
 
 # 💻 Tech Stack:
